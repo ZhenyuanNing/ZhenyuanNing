@@ -1,29 +1,21 @@
-## Welcome to ZhenyuanNing Pages(https://zhenyuanning.github.io/zhenyuanning/)
+## Welcome to ZhenyuanNing Pages
 
-### Markdown
+### 个人简介
+-**邮箱**：
+<p align="right">843155331@qq.com</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 获奖情况及研究成果
 
-```markdown
-Syntax highlighted code block
+<center>获奖情况</center>
+>...
+>...
 
-# Header 1
-## Header 2
-### Header 3
+<center>研究成果</center>
+>...
+>...
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+### 研究方向
+>
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhenyuanNing/ZhenyuanNing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
