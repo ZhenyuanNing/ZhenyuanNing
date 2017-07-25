@@ -1,5 +1,4 @@
 ## Welcome to ZhenyuanNing Pages
-一下是关于我个人的一些介绍
 
 ### Markdown
 
